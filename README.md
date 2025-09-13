@@ -31,7 +31,9 @@ Estoy en constante aprendizaje, enfocado en mejorar mis habilidades de programac
 ## Contacta conmigo aqui:
 
 📧 david.belmarti@gmail.com
+
 📍 Valencia, España
+
 https://www.linkedin.com/in/david-belmonte-martinez-858728301
 
 ---
