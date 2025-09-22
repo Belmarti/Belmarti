@@ -6,7 +6,7 @@ Aunque empecé en el mundo de los sistemas, descubrí que mi verdadera pasión e
 
 ---
 
-## Aptitudes
+## Conocimiento de tecnologías 
 
 **Lenguajes:**  
 Java · Python · C++ · HTML · CSS · XML
